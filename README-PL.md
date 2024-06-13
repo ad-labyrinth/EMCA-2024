@@ -1,4 +1,4 @@
-# Witamy w warsztacie Labyrinth Deception Platform
+# Witamy na warsztatach platformy Labyrinth Deception
 Wszystko, czego możesz potrzebować podczas warsztatów, jest dostępne w tym repozytorium.
 
 ## Uzyskiwanie dostępu

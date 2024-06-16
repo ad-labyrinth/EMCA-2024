@@ -8,8 +8,8 @@ Na początek przejdź do naszego stanowiska testowego:
 1. **Poświadczenia do AdminVM** - możesz użyć dowolnej przeglądarki internetowej:
 ```
 URL: https://demo.labyrinth.tech/
-Username: ats
-Password: lFcGa0y7!_37
+Username: user
+Password: 2~8uH'14leki
 ```
 > [!NOTE]
 > Zachęcamy do tworzenia własnych użytkowników tutaj, przechodząc do Settings->Users.

@@ -10,7 +10,7 @@ You may use any web browser of your choice.
 ```
 URL: https://demo.labyrinth.tech/
 Username: user
-Password: lFcGa0y7!_37
+Password: 2~8uH'14leki
 ```
 > [!NOTE]
 > Feel free to create your own users here by going to the Settings->Users.

